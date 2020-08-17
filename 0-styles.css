@@ -35,8 +35,6 @@ ul li {
   top: 12%;
 }
 
-.icon.i-html {
-}
 .icon.i-css {
   background-position: calc(var(--sprite-width) / 1.5);
 }
