@@ -102,7 +102,6 @@
 
 .menu .menu-open:checked + .menu-open-button {
   animation: 0.8s ease forwards button-click;
-  animation-play-state: running;
   /* transform: var(--button-scale); */
   transition: var(--button-scale-transition);
 }
@@ -119,7 +118,6 @@
   }
   100% {
     transform: var(--button-scale);
-    animation-play-state: running;
   }
 }
 
